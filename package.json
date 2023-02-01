@@ -1,0 +1,24 @@
+{
+  "name": "random-str-msg-eu",
+  "version": "1.0.0",
+  "description": "Random String messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eufanzky/random-str-msg-eu.git"
+  },
+  "keywords": [],
+  "author": "Eugenio Condori <eufanzky@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eufanzky/random-str-msg-eu/issues"
+  },
+  "homepage": "https://github.com/Eufanzky/random-str-msg-eu#readme",
+  "bin": {
+    "random-str-msg-eu": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
